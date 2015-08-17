@@ -52,5 +52,7 @@ function SwitchableGridController($scope, instagram){
 		// to be automatically redrawn by Angular.
 		$scope.pics = data;
 	});
+	
+	//git comment
 
 }
